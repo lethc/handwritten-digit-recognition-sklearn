@@ -1,0 +1,1 @@
+Este proyecto implementa una solución completa de machine learning para el reconocimiento de dígitos escritos a mano utilizando el dataset load_digits de scikit-learn. El modelo principal es una red neuronal convolucional construida con TensorFlow y Keras, diseñada para clasificar imágenes de 8x8 píxeles en diez categorías correspondientes a los dígitos del cero al nueve.
